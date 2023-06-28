@@ -1,8 +1,8 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Hi , I'm Arif or Fitra as Kang Dongeng</b></h3>
 
-## <picture><img src = "https://media.tenor.com/Ji8vLfj669IAAAAi/thinking-goma.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/arifdestro/isblog/blob/main/assets/img/sleep%20v2.gif" width = 200px></picture>
+## <picture><img src = "https://github.com/arifdestro/arifdestro/blob/main/assets/thinking-goma.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://github.com/arifdestro/arifdestro/blob/main/assets/sleep%20v2.gif" width = 200px></picture>
 
 <br>
 
